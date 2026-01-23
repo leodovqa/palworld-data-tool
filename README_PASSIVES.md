@@ -4,8 +4,8 @@
 This system automatically generates optimal passive ability recommendations for all 156 Pals + variants based on 2026 Palworld meta analysis.
 
 ### Key Files
-- **data_backup.txt** - SOURCE OF TRUTH: Contains all 156 Pals with elements and work suitability data
-- **parse_pals.js** - Parser that reads data_backup.txt and generates pals.json with passive recommendations
+- **pals_data.tsv** - SOURCE OF TRUTH: A tab-separated file containing all Pals with elements and work suitability data.
+- **parse_pals.js** - Parser that reads `pals_data.tsv` and generates `pals.json`, `pals_raw.json`, and `pals_flat.csv` with passive recommendations.
 - **pal_types.js** - Pal type classification (fighter, ground/water/flying mount)
 - **pals.json** - Generated output with all parsed data and passive recommendations
 
@@ -69,8 +69,11 @@ This system automatically generates optimal passive ability recommendations for 
   "type": "fighter",
   "mountType": null,
   "passives": {
-    "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
-    "alternative": "Ferocious"
+    "damage": {
+      "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
+      "alternative": "Ferocious"
+    },
+    "mount": null
   }
 }
 
@@ -81,8 +84,11 @@ This system automatically generates optimal passive ability recommendations for 
   "type": "mount",
   "mountType": "water",
   "passives": {
-    "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
-    "alternative": "Ace Swimmer"
+    "damage": { "...omitted..." },
+    "mount": {
+      "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
+      "alternative": "Ace Swimmer"
+    }
   }
 }
 
@@ -93,8 +99,11 @@ This system automatically generates optimal passive ability recommendations for 
   "type": "fighter",
   "mountType": null,
   "passives": {
-    "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
-    "alternative": "Musclehead"
+    "damage": {
+      "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
+      "alternative": "Musclehead"
+    },
+    "mount": null
   }
 }
 ```
@@ -123,8 +132,8 @@ Each Pal entry contains:
 
 ### Notes
 
-1. **data_backup.txt is never modified** - It serves as the immutable source of truth
-2. **Parse & regenerate anytime** - Run `node parse_pals.js` to refresh pals.json
+1. **pals_data.tsv is never modified** - It serves as the immutable source of truth.
+2. **Parse & regenerate anytime** - Run `npm run parse` to refresh `pals.json` and other generated files.
 3. **Element system** - 9 total elements extracted from Palworld icon text patterns
 4. **2026 Meta Rules**:
    - Serenity is the "hidden multiplier" due to cooldown reduction

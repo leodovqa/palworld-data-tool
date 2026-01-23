@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Palworld Dark Mode Table</title>
+<link rel="icon" type="image/png" href="assets/palworld_icon.png" />
+<link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+
+<section id="palSection">
+<h1>Palworld Pure Attack & Movement</h1>
+
+<!-- Main container: centers controls and table together -->
+<div id="mainContainer" style="max-width:1800px;margin:0 auto;padding-top:4px;">
+
+<!-- Controls: search + filters aligned with table -->
+<div class="controls" style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
+  <input type="search" id="searchBox" placeholder="Search by any text..." style="width:200px;padding:6px;border-radius:4px;border:none;outline:none;" />
+
+  <!-- Filters: element, mount type, attack, move -->
+  <div id="filters" style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
+    <label style="color:#ddd">Element:
+      <select id="filterElement" class="filter-input"><option value="">All</option></select>
+    </label>
+    <label style="color:#ddd">Mount Type:
+      <select id="filterMount" class="filter-input"><option value="">All</option></select>
+    </label>
+    <label style="color:#ddd">Attack:
+      <select id="filterAttack" class="filter-input"><option value="">All</option></select>
+    </label>
+    <label style="color:#ddd">Move:
+      <select id="filterMove" class="filter-input"><option value="">All</option></select>
+    </label>
+    <label style="color:#ddd">Mastery:
+      <select id="filterMastery" class="filter-input"><option value="">All</option></select>
+    </label>
+    <label id="levelLabel" style="color:#ddd;display:none;">Level:
+      <select id="filterLevel" class="filter-input"><option value="">All</option></select>
+    </label>
+    <button id="clearFilters" style="padding:6px 10px;border-radius:6px;border:none;background:#2b2b2b;color:#fff;cursor:pointer;">Clear</button>
+  </div>
+  </div>
+
+<table id="palTable">
+  <thead>
+    <tr>
+      <th data-key="palNum">Pal #</th>
+      <th data-key="palName">Pal Name</th>
+      <th data-key="element">Element</th>
+      <th data-key="attack1">Attack 1</th>
+      <th data-key="attack2">Attack 2</th>
+      <th data-key="attack3">Attack 3</th>
+      <th data-key="attack4">Attack 4</th>
+      <th data-key="attackAlt">Attack Alt</th>
+      <th data-key="move1">Move 1</th>
+      <th data-key="move2">Move 2</th>
+      <th data-key="move3">Move 3</th>
+      <th data-key="move4">Move 4</th>
+      <th data-key="moveAlt">Move Alt</th>
+      <th data-key="mountType">Mount Type</th>
+    </tr>
+  </thead>
+  <tbody></tbody>
+</table>
+
+</div>
+
+<!-- Modal for pal details -->
+<div id="palModal" aria-hidden="true" style="display:none;">
+  <div id="palModalOverlay" style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:40;">
+    <div id="palModalBox" style="background:#0f0f0f;color:#fff;border:1px solid #333;border-radius:8px;max-width:520px;width:92%;padding:18px;position:relative;box-shadow:0 10px 30px rgba(0,0,0,0.6);">
+      <button id="palModalCloseX" aria-label="Close" style="position:absolute;right:8px;top:8px;background:transparent;border:none;color:#ddd;font-size:20px;cursor:pointer;">✕</button>
+      <div style="display:flex;gap:12px;align-items:center;">
+        <img id="palModalIcon" src="" alt="pal icon" style="width:96px;height:96px;object-fit:contain;border-radius:6px;background:#111;border:1px solid #222;" />
+        <div>
+          <div style="font-size:1.2rem;font-weight:700" id="palModalName">Pal Name</div>
+          <div style="color:#bbb;margin-top:4px;" id="palModalNumber">#000</div>
+          <div style="margin-top:8px;color:#ddd;font-size:0.95rem;" id="palModalElement">Element: </div>
+        </div>
+      </div>
+      <hr style="border:none;border-top:1px solid #222;margin:12px 0;" />
+      <div id="palModalWorks" style="max-height:260px;overflow:auto;font-size:0.95rem;color:#e6e6e6;">
+        <!-- work suitability list inserted here -->
+      </div>
+      <div style="text-align:center;margin-top:14px;">
+        <button id="palModalClose" style="padding:8px 18px;border-radius:6px;border:none;background:#1f6feb;color:#fff;cursor:pointer;">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</section>
+
+<script src="app.js"></script>
+
+</body>
+</html>

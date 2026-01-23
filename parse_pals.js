@@ -18,9 +18,9 @@ const elementMap = {
 const passiveLogic = require('./pal_passives_logic');
 
 // Read Pal data from the tab-separated file
-const palData = fs.readFileSync('pals_data.tsv', 'utf8')
-  // Remove the header line
-  .substring(palData.indexOf('\n') + 1);
+let palData = fs.readFileSync('pals_data.tsv', 'utf8');
+// Remove the header line
+palData = palData.substring(palData.indexOf('\n') + 1);
 
 // Parse the simplified Palworld Pal data
 function getPalType(palNum) {
@@ -163,19 +163,16 @@ const csvHeaders = [
   'Move 3',
   'Move 4',
   'Move Alt',
-  ,
   'Mount Type'
-  
 ];
 
 const csvRows = [csvHeaders.join(',')];
 
 flatPals.forEach(p => {
   const row = [
-    toCsvCell(p.number),
-    toCsvCell(p.name),
+    toCsvCell(p.palNum),
+    toCsvCell(p.palName),
     toCsvCell(p.element || ''),
-    toCsvCell(p.mountType || ''),
     toCsvCell(p.attack1 || ''),
     toCsvCell(p.attack2 || ''),
     toCsvCell(p.attack3 || ''),
@@ -186,8 +183,7 @@ flatPals.forEach(p => {
     toCsvCell(p.move3 || ''),
     toCsvCell(p.move4 || ''),
     toCsvCell(p.moveAlt || ''),
-    toCsvCell(p.primaryUse || p.type || ''),
-    toCsvCell(p.notes || '')
+    toCsvCell(p.mountType || '')
   ];
 
   csvRows.push(row.join(','));
@@ -195,4 +191,3 @@ flatPals.forEach(p => {
 
 fs.writeFileSync('pals_flat.csv', csvRows.join('\n'), 'utf8');
 console.log(`✓ Wrote flat CSV with ${flatPals.length} rows to pals_flat.csv`);
-

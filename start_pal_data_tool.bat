@@ -1,0 +1,6 @@
+@echo off
+echo Changing directory to the project folder...
+cd /d "D:\Github\palworld-data-tool"
+echo Listing available npm scripts...
+npm run
+pause
