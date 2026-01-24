@@ -3,6 +3,30 @@ const tabContainer = document.querySelector(".tab-container");
 const tabButtons = document.querySelectorAll(".tab-button");
 const tabContents = document.querySelectorAll(".tab-content");
 
+let bossTabsPopulated = false;
+function populateBossTabs() {
+  if (bossTabsPopulated) return;
+
+  const ultraTeamsSection = document.getElementById("ultra-teams");
+  const nestedTabs = ultraTeamsSection.querySelectorAll(".tab-content-nested");
+
+  nestedTabs.forEach(tab => {
+    const bossId = tab.id;
+    const bossData = raidBosses[bossId];
+    if (bossData) {
+      const bossInfo = createBossInfo(bossData);
+      const infoContent = tab.querySelector(".info-content");
+      if (infoContent) {
+        infoContent.prepend(bossInfo);
+      } else {
+        tab.prepend(bossInfo);
+      }
+    }
+  });
+
+  bossTabsPopulated = true;
+}
+
 function activateTab(tabId) {
   if (!tabId) {
     tabId = tabButtons[0].dataset.tab;
@@ -13,6 +37,10 @@ function activateTab(tabId) {
   tabContents.forEach((content) => {
     content.classList.toggle("active", content.id === tabId);
   });
+
+  if (tabId === 'ultra-teams') {
+    populateBossTabs();
+  }
 }
 
 tabContainer.addEventListener("click", (e) => {
@@ -59,6 +87,37 @@ nestedTabContainers.forEach(container => {
     });
   });
 });
+
+function createBossInfo(bossData) {
+  const bossInfo = document.createElement("div");
+  bossInfo.classList.add("boss-info");
+
+  const schematicImage = document.createElement("img");
+  schematicImage.src = bossData.schematicImage;
+  schematicImage.alt = bossData.name + " Schematic";
+  bossInfo.appendChild(schematicImage);
+
+  const palIcon = document.createElement("img");
+  palIcon.src = bossData.palIcon;
+  palIcon.alt = bossData.name + " Icon";
+  bossInfo.appendChild(palIcon);
+
+  const bossName = document.createElement("h3");
+  bossName.textContent = bossData.name;
+  bossInfo.appendChild(bossName);
+
+  const bossStats = document.createElement("div");
+  bossStats.classList.add("boss-stats");
+  bossStats.innerHTML = `
+    <p>Level: ${bossData.level}</p>
+    <p>HP: ${bossData.hp}</p>
+    <p>Damage Reduction: ${bossData.damageReduction}</p>
+    <p>Attack Damage: ${bossData.attackDamage}</p>
+  `;
+  bossInfo.appendChild(bossStats);
+
+  return bossInfo;
+}
 
 
 const tableBody = document.querySelector("#palTable tbody");

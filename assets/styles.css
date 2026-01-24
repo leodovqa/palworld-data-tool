@@ -40,6 +40,7 @@
   display: flex;
   border-bottom: 1px solid #333;
   margin-bottom: 1rem;
+  flex-wrap: wrap;
 }
 
 /* Nested tab buttons */
@@ -113,6 +114,25 @@
   max-width: 900px;
   margin: 0 auto;
 }
+
+.boss-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.boss-info img {
+  max-width: 150px;
+  margin-bottom: 1rem;
+}
+
+.boss-stats {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.5rem 2rem;
+}
+
 body {
   background-color: #121212;
   color: #e0e0e0;
