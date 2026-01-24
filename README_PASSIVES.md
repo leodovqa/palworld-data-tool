@@ -1,9 +1,11 @@
 ## Palworld Database - 2026 Meta Passive Build System
 
 ### Overview
+
 This system automatically generates optimal passive ability recommendations for all 156 Pals + variants based on 2026 Palworld meta analysis.
 
 ### Key Files
+
 - **pals_data.tsv** - SOURCE OF TRUTH: A tab-separated file containing all Pals with elements and work suitability data.
 - **parse_pals.js** - Parser that reads `pals_data.tsv` and generates `pals.json`, `pals_raw.json`, and `pals_flat.csv` with passive recommendations.
 - **pal_types.js** - Pal type classification (fighter, ground/water/flying mount)
@@ -14,6 +16,7 @@ This system automatically generates optimal passive ability recommendations for 
 #### 1. Combat Builds (Fighters)
 
 **Standard Fighters (Pal #1-99 excluding mounts):**
+
 - Slot 1: **Demon God** - Increases attack power significantly
 - Slot 2: **Serenity** - Reduces cooldowns (hidden multiplier of 2026 meta)
 - Slot 3: **Musclehead** - Physical attack boost
@@ -30,6 +33,7 @@ This system automatically generates optimal passive ability recommendations for 
 - Alternative: **Ferocious** - Aggressive attack enhancement
 
 **Legendary Fighters (Pal #100+):**
+
 - Slot 1: **Legend** - Ultimate combat ability (replaces Demon God)
 - Slot 2: **Demon God** - Secondary attack power boost
 - Slot 3: **Serenity** - Cooldown reduction
@@ -39,6 +43,7 @@ This system automatically generates optimal passive ability recommendations for 
 #### 2. Movement Builds (Mounts)
 
 **Flying Mounts:**
+
 - Slot 1: **Legend** - Ultimate movement ability
 - Slot 2: **Swift** - Speed enhancement
 - Slot 3: **Runner** - Movement boost
@@ -46,6 +51,7 @@ This system automatically generates optimal passive ability recommendations for 
 - Alternative: **Nimble** - Ground speed optimization
 
 **Water Mounts:**
+
 - Slot 1: **Legend** - Ultimate movement ability
 - Slot 2: **Swift** - Speed enhancement
 - Slot 3: **Runner** - Movement boost
@@ -53,6 +59,7 @@ This system automatically generates optimal passive ability recommendations for 
 - Alternative: **Ace Swimmer** - Swimming optimization
 
 **Ground Mounts:**
+
 - Slot 1: **Legend** - Ultimate movement ability
 - Slot 2: **Swift** - Speed enhancement
 - Slot 3: **Runner** - Movement boost
@@ -111,6 +118,7 @@ This system automatically generates optimal passive ability recommendations for 
 ### Data Structure (pals.json)
 
 Each Pal entry contains:
+
 - `number` - Pal ID (1-156, with variants like 5B, 101B, etc.)
 - `name` - Pal name
 - `elements` - Array of element types (can be 1-2 elements)
@@ -144,6 +152,7 @@ Each Pal entry contains:
 ### Future Enhancements
 
 Could add:
+
 - Attack movesets (1-4 basic attacks)
 - Partner skill data
 - Breeding combinations

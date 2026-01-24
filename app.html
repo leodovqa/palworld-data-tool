@@ -1,99 +1,375 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Palworld Dark Mode Table</title>
-<link rel="icon" type="image/png" href="assets/palworld_icon.png" />
-<link rel="stylesheet" href="assets/styles.css">
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Palworld Dark Mode Table</title>
+    <link rel="icon" type="image/png" href="assets/palworld_icon.png" />
+    <link rel="stylesheet" href="assets/styles.css" />
+  </head>
+  <body>
+    <div class="tab-container">
+      <button class="tab-button active" data-tab="main">
+        Palworld Pure Attack & Movement
+      </button>
+      <button class="tab-button" data-tab="ultra-teams">Ultra Teams</button>
+    </div>
 
-<section id="palSection">
-<h1>Palworld Pure Attack & Movement</h1>
+    <section id="main" class="tab-content active">
+      <h1>Palworld Pure Attack & Movement</h1>
 
-<!-- Main container: centers controls and table together -->
-<div id="mainContainer" style="max-width:1800px;margin:0 auto;padding-top:4px;">
+      <!-- Main container: centers controls and table together -->
+      <div
+        id="mainContainer"
+        style="max-width: 1800px; margin: 0 auto; padding-top: 4px"
+      >
+        <!-- Controls: search + filters aligned with table -->
+        <div
+          class="controls"
+          style="display: flex; align-items: center; gap: 14px; flex-wrap: wrap"
+        >
+          <input
+            type="search"
+            id="searchBox"
+            placeholder="Search by any text..."
+            style="
+              width: 200px;
+              padding: 6px;
+              border-radius: 4px;
+              border: none;
+              outline: none;
+            "
+          />
 
-<!-- Controls: search + filters aligned with table -->
-<div class="controls" style="display:flex;align-items:center;gap:14px;flex-wrap:wrap;">
-  <input type="search" id="searchBox" placeholder="Search by any text..." style="width:200px;padding:6px;border-radius:4px;border:none;outline:none;" />
+          <!-- Filters: element, mount type, attack, move -->
+          <div
+            id="filters"
+            style="
+              display: flex;
+              gap: 12px;
+              align-items: center;
+              flex-wrap: wrap;
+            "
+          >
+            <label style="color: #ddd"
+              >Element:
+              <select id="filterElement" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label style="color: #ddd"
+              >Mount Type:
+              <select id="filterMount" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label style="color: #ddd"
+              >Attack:
+              <select id="filterAttack" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label style="color: #ddd"
+              >Move:
+              <select id="filterMove" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label style="color: #ddd"
+              >Mastery:
+              <select id="filterMastery" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <label id="levelLabel" style="color: #ddd; display: none"
+              >Level:
+              <select id="filterLevel" class="filter-input">
+                <option value="">All</option>
+              </select>
+            </label>
+            <button
+              id="clearFilters"
+              style="
+                padding: 6px 10px;
+                border-radius: 6px;
+                border: none;
+                background: #2b2b2b;
+                color: #fff;
+                cursor: pointer;
+              "
+            >
+              Clear
+            </button>
+          </div>
+        </div>
 
-  <!-- Filters: element, mount type, attack, move -->
-  <div id="filters" style="display:flex;gap:12px;align-items:center;flex-wrap:wrap;">
-    <label style="color:#ddd">Element:
-      <select id="filterElement" class="filter-input"><option value="">All</option></select>
-    </label>
-    <label style="color:#ddd">Mount Type:
-      <select id="filterMount" class="filter-input"><option value="">All</option></select>
-    </label>
-    <label style="color:#ddd">Attack:
-      <select id="filterAttack" class="filter-input"><option value="">All</option></select>
-    </label>
-    <label style="color:#ddd">Move:
-      <select id="filterMove" class="filter-input"><option value="">All</option></select>
-    </label>
-    <label style="color:#ddd">Mastery:
-      <select id="filterMastery" class="filter-input"><option value="">All</option></select>
-    </label>
-    <label id="levelLabel" style="color:#ddd;display:none;">Level:
-      <select id="filterLevel" class="filter-input"><option value="">All</option></select>
-    </label>
-    <button id="clearFilters" style="padding:6px 10px;border-radius:6px;border:none;background:#2b2b2b;color:#fff;cursor:pointer;">Clear</button>
-  </div>
-  </div>
+        <table id="palTable">
+          <thead>
+            <tr>
+              <th data-key="palNum">Pal #</th>
+              <th data-key="palName">Pal Name</th>
+              <th data-key="element">Element</th>
+              <th data-key="attack1">Attack 1</th>
+              <th data-key="attack2">Attack 2</th>
+              <th data-key="attack3">Attack 3</th>
+              <th data-key="attack4">Attack 4</th>
+              <th data-key="attackAlt">Attack Alt</th>
+              <th data-key="move1">Move 1</th>
+              <th data-key="move2">Move 2</th>
+              <th data-key="move3">Move 3</th>
+              <th data-key="move4">Move 4</th>
+              <th data-key="moveAlt">Move Alt</th>
+              <th data-key="mountType">Mount Type</th>
+            </tr>
+          </thead>
+          <tbody></tbody>
+        </table>
+      </div>
 
-<table id="palTable">
-  <thead>
-    <tr>
-      <th data-key="palNum">Pal #</th>
-      <th data-key="palName">Pal Name</th>
-      <th data-key="element">Element</th>
-      <th data-key="attack1">Attack 1</th>
-      <th data-key="attack2">Attack 2</th>
-      <th data-key="attack3">Attack 3</th>
-      <th data-key="attack4">Attack 4</th>
-      <th data-key="attackAlt">Attack Alt</th>
-      <th data-key="move1">Move 1</th>
-      <th data-key="move2">Move 2</th>
-      <th data-key="move3">Move 3</th>
-      <th data-key="move4">Move 4</th>
-      <th data-key="moveAlt">Move Alt</th>
-      <th data-key="mountType">Mount Type</th>
-    </tr>
-  </thead>
-  <tbody></tbody>
-</table>
-
-</div>
-
-<!-- Modal for pal details -->
-<div id="palModal" aria-hidden="true" style="display:none;">
-  <div id="palModalOverlay" style="position:fixed;inset:0;background:rgba(0,0,0,0.6);display:flex;align-items:center;justify-content:center;z-index:40;">
-    <div id="palModalBox" style="background:#0f0f0f;color:#fff;border:1px solid #333;border-radius:8px;max-width:520px;width:92%;padding:18px;position:relative;box-shadow:0 10px 30px rgba(0,0,0,0.6);">
-      <button id="palModalCloseX" aria-label="Close" style="position:absolute;right:8px;top:8px;background:transparent;border:none;color:#ddd;font-size:20px;cursor:pointer;">✕</button>
-      <div style="display:flex;gap:12px;align-items:center;">
-        <img id="palModalIcon" src="" alt="pal icon" style="width:96px;height:96px;object-fit:contain;border-radius:6px;background:#111;border:1px solid #222;" />
-        <div>
-          <div style="font-size:1.2rem;font-weight:700" id="palModalName">Pal Name</div>
-          <div style="color:#bbb;margin-top:4px;" id="palModalNumber">#000</div>
-          <div style="margin-top:8px;color:#ddd;font-size:0.95rem;" id="palModalElement">Element: </div>
+      <!-- Modal for pal details -->
+      <div id="palModal" aria-hidden="true" style="display: none">
+        <div
+          id="palModalOverlay"
+          style="
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.6);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            z-index: 40;
+          "
+        >
+          <div
+            id="palModalBox"
+            style="
+              background: #0f0f0f;
+              color: #fff;
+              border: 1px solid #333;
+              border-radius: 8px;
+              max-width: 520px;
+              width: 92%;
+              padding: 18px;
+              position: relative;
+              box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+            "
+          >
+            <button
+              id="palModalCloseX"
+              aria-label="Close"
+              style="
+                position: absolute;
+                right: 8px;
+                top: 8px;
+                background: transparent;
+                border: none;
+                color: #ddd;
+                font-size: 20px;
+                cursor: pointer;
+              "
+            >
+              ✕
+            </button>
+            <div style="display: flex; gap: 12px; align-items: center">
+              <img
+                id="palModalIcon"
+                src=""
+                alt="pal icon"
+                style="
+                  width: 96px;
+                  height: 96px;
+                  object-fit: contain;
+                  border-radius: 6px;
+                  background: #111;
+                  border: 1px solid #222;
+                "
+              />
+              <div>
+                <div
+                  style="font-size: 1.2rem; font-weight: 700"
+                  id="palModalName"
+                >
+                  Pal Name
+                </div>
+                <div style="color: #bbb; margin-top: 4px" id="palModalNumber">
+                  #000
+                </div>
+                <div
+                  style="margin-top: 8px; color: #ddd; font-size: 0.95rem"
+                  id="palModalElement"
+                >
+                  Element:
+                </div>
+              </div>
+            </div>
+            <hr
+              style="border: none; border-top: 1px solid #222; margin: 12px 0"
+            />
+            <div
+              id="palModalWorks"
+              style="
+                max-height: 260px;
+                overflow: auto;
+                font-size: 0.95rem;
+                color: #e6e6e6;
+              "
+            >
+              <!-- work suitability list inserted here -->
+            </div>
+            <div style="text-align: center; margin-top: 14px">
+              <button
+                id="palModalClose"
+                style="
+                  padding: 8px 18px;
+                  border-radius: 6px;
+                  border: none;
+                  background: #1f6feb;
+                  color: #fff;
+                  cursor: pointer;
+                "
+              >
+                Close
+              </button>
+            </div>
+          </div>
         </div>
       </div>
-      <hr style="border:none;border-top:1px solid #222;margin:12px 0;" />
-      <div id="palModalWorks" style="max-height:260px;overflow:auto;font-size:0.95rem;color:#e6e6e6;">
-        <!-- work suitability list inserted here -->
+    </section>
+
+    <section id="ultra-teams" class="tab-content">
+      <h1>Ultra Teams Guide (2026 Meta)</h1>
+      <div class="info-content">
+        <p>
+          To defeat <strong>Bellanoir Libero Ultra</strong> in the 2026 meta
+          (v0.7 and beyond), you need to account for her massive HP pool (around
+          1.2 million) and her unique two-phase typing.
+        </p>
+        <p>
+          She starts as <strong>Dark</strong> type but transforms into
+          <strong>Ice</strong> type when she reaches her final HP threshold
+          (roughly the last 15–20%). This makes standard Dragon teams dangerous
+          because she will shred them in the final phase.
+        </p>
+
+        <h2>The "Ultra" Team Composition</h2>
+        <p>
+          Since raid bosses now target the player more aggressively, your party
+          should be built around
+          <strong>Player Damage Enhancement</strong> while your base Pals
+          provide the heavy lifting.
+        </p>
+
+        <h3>1. The Party (Your Personal Loadout)</h3>
+        <ul>
+          <li>
+            <strong>Mount 1 (Phase 1):</strong> Chillet / Chillet Ignis. Riding
+            Chillet converts your player damage to Dragon, which is super
+            effective against her Dark phase.
+          </li>
+          <li>
+            <strong>Mount 2 (Phase 2):</strong> Ragnahawk / Pyrin. When she
+            turns to Ice, switch to these to convert your damage to Fire.
+          </li>
+          <li>
+            <strong>Support:</strong> 4x Gobfin (fully condensed). Their "Angry
+            Shark" skill stacks, giving you a massive boost to your own attack
+            power.
+          </li>
+          <li>
+            <strong>Passives for Party:</strong> Aim for Vanguard and Stronghold
+            Strategist on every Gobfin and mount to buff your own stats.
+          </li>
+        </ul>
+
+        <h3>2. The Base Army (The 15–20 Pals at your Altar)</h3>
+        <p>
+          You need two distinct groups. Use the Palbox to swap them quickly when
+          the phase changes.
+        </p>
+        <table>
+          <thead>
+            <tr>
+              <th>Phase</th>
+              <th>Recommended Pals</th>
+              <th>Reason</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Phase 1 (Dark)</td>
+              <td>Jetragon / Astegon</td>
+              <td>
+                Jetragon provides the highest Dragon DPS. Astegon (Dark/Dragon)
+                has the best natural resistance to her Dark beams.
+              </td>
+            </tr>
+            <tr>
+              <td>Phase 2 (Ice)</td>
+              <td>Jormuntide Ignis / Blazamut Ryu</td>
+              <td>
+                Jormuntide Ignis is the "MVP" because its Fire/Dragon typing
+                resists her attacks in both phases. Blazamut Ryu is the current
+                DPS king for Fire damage.
+              </td>
+            </tr>
+            <tr>
+              <td>All-Rounder</td>
+              <td>Selyne</td>
+              <td>
+                If you don't want to swap, Selyne is the most versatile
+                post-v0.7 Pal for raids due to its high burst magic damage.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h3>Optimal Passive Skills (2026 Meta)</h3>
+        <p>
+          For your Base Pals, move away from old skills like Ferocious. You want
+          the "Big Four" for maximum boss DPS:
+        </p>
+        <ul>
+          <li>
+            <strong>Legend:</strong> (Atk +20%, Def +20%, Move Speed +15%)
+          </li>
+          <li>
+            <strong>Demon God:</strong> (Atk +30%, Def +5%) — Superior to
+            Ferocious; found on raid-tier Pals.
+          </li>
+          <li>
+            <strong>Musclehead:</strong> (Atk +30%) — Essential raw damage.
+          </li>
+          <li>
+            <strong>Serenity:</strong> (Atk +10%, Cooldown -30%) — Crucial. This
+            allows your Pals to spam high-damage moves like Holy Burst or Dragon
+            Meteor much more frequently.
+          </li>
+        </ul>
+
+        <h2>Pro Strategy: The "Three Pillars" of Success</h2>
+        <ol>
+          <li>
+            <strong>The Food Buff:</strong> Feed your base Pals Mozzarina
+            Cheeseburgers before summoning. It grants a 20% attack boost and,
+            more importantly, keeps their hunger from dropping, which prevents a
+            20% stat penalty mid-fight.
+          </li>
+          <li>
+            <strong>Skill Selection:</strong> Ensure your Pals have at least one
+            low-cooldown move (2–4 seconds). If they only have
+            high-power/high-cooldown moves, they will stand idle for 10 seconds
+            after one attack, losing massive DPS.
+          </li>
+          <li>
+            <strong>Base Safety:</strong> Build your Summoning Altar on a raised
+            stone platform or in a base with no critical infrastructure.
+            Bellanoir's "Nightmare Ray" will delete chests and crafting stations
+            instantly.
+          </li>
+        </ol>
       </div>
-      <div style="text-align:center;margin-top:14px;">
-        <button id="palModalClose" style="padding:8px 18px;border-radius:6px;border:none;background:#1f6feb;color:#fff;cursor:pointer;">Close</button>
-      </div>
-    </div>
-  </div>
-</div>
+    </section>
 
-</section>
-
-<script src="app.js"></script>
-
-</body>
+    <script src="app.js"></script>
+  </body>
 </html>

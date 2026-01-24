@@ -1,7 +1,7 @@
-const fs = require('fs');
-const path = require('path');
+const fs = require("fs");
+const path = require("path");
 
-const assetsDir = path.join(__dirname, '..', 'assets');
+const assetsDir = path.join(__dirname, "..", "assets");
 
 // Ensure assets directory exists
 if (!fs.existsSync(assetsDir)) {
@@ -26,6 +26,6 @@ const svgContent = `<?xml version="1.0" encoding="UTF-8"?>
   <circle cx="16" cy="16" r="14" fill="none" stroke="#333" stroke-width="1" />
 </svg>`;
 
-const faviconPath = path.join(assetsDir, 'palworld_favicon.svg');
-fs.writeFileSync(faviconPath, svgContent, 'utf8');
+const faviconPath = path.join(assetsDir, "palworld_favicon.svg");
+fs.writeFileSync(faviconPath, svgContent, "utf8");
 console.log(`✓ Created Palworld favicon at ${faviconPath}`);

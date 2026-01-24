@@ -2,9 +2,7 @@
   {
     "number": "1",
     "name": "Lamball",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -23,12 +21,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -37,9 +30,7 @@
   {
     "number": "2",
     "name": "Cattiva",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -62,12 +53,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -76,9 +62,7 @@
   {
     "number": "3",
     "name": "Chikipi",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -93,12 +77,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -107,9 +86,7 @@
   {
     "number": "4",
     "name": "Lifmunk",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -136,12 +113,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -150,9 +122,7 @@
   {
     "number": "5",
     "name": "Foxparks",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -163,12 +133,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -177,9 +142,7 @@
   {
     "number": "5B",
     "name": "Foxparks Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -190,12 +153,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -204,9 +162,7 @@
   {
     "number": "6",
     "name": "Fuack",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -225,12 +181,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -239,10 +190,7 @@
   {
     "number": "6B",
     "name": "Fuack Ignis",
-    "elements": [
-      "Fire",
-      "Water"
-    ],
+    "elements": ["Fire", "Water"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -265,12 +213,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -279,9 +222,7 @@
   {
     "number": "7",
     "name": "Sparkit",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -300,12 +241,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -314,9 +250,7 @@
   {
     "number": "8",
     "name": "Tanzee",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -343,12 +277,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -357,9 +286,7 @@
   {
     "number": "9",
     "name": "Rooby",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -370,12 +297,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -384,10 +306,7 @@
   {
     "number": "10",
     "name": "Pengullet",
-    "elements": [
-      "Water",
-      "Ice"
-    ],
+    "elements": ["Water", "Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -410,12 +329,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -424,10 +338,7 @@
   {
     "number": "10B",
     "name": "Pengullet Lux",
-    "elements": [
-      "Water",
-      "Electric"
-    ],
+    "elements": ["Water", "Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -450,12 +361,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -464,10 +370,7 @@
   {
     "number": "11",
     "name": "Penking",
-    "elements": [
-      "Water",
-      "Ice"
-    ],
+    "elements": ["Water", "Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -494,21 +397,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -516,10 +409,7 @@
   {
     "number": "11B",
     "name": "Penking Lux",
-    "elements": [
-      "Water",
-      "Electric"
-    ],
+    "elements": ["Water", "Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -546,21 +436,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -568,9 +448,7 @@
   {
     "number": "12",
     "name": "Jolthog",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Electricity",
@@ -581,12 +459,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -595,9 +468,7 @@
   {
     "number": "12B",
     "name": "Jolthog Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -608,12 +479,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -622,10 +488,7 @@
   {
     "number": "13",
     "name": "Gumoss",
-    "elements": [
-      "Grass",
-      "Ground"
-    ],
+    "elements": ["Grass", "Ground"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -636,12 +499,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -650,10 +508,7 @@
   {
     "number": "13B",
     "name": "Special Flower Gumoss",
-    "elements": [
-      "Grass",
-      "Ground"
-    ],
+    "elements": ["Grass", "Ground"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -664,12 +519,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -678,9 +528,7 @@
   {
     "number": "14",
     "name": "Vixy",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -695,12 +543,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -709,9 +552,7 @@
   {
     "number": "15",
     "name": "Hoocrates",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -736,9 +577,7 @@
   {
     "number": "16",
     "name": "Teafant",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -749,12 +588,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -763,9 +597,7 @@
   {
     "number": "17",
     "name": "Depresso",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -798,9 +630,7 @@
   {
     "number": "18",
     "name": "Cremis",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -815,12 +645,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -829,9 +654,7 @@
   {
     "number": "19",
     "name": "Daedream",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -864,9 +687,7 @@
   {
     "number": "20",
     "name": "Rushoar",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Mining",
@@ -877,12 +698,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -891,9 +707,7 @@
   {
     "number": "21",
     "name": "Nox",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -918,9 +732,7 @@
   {
     "number": "22",
     "name": "Fuddler",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -939,12 +751,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -953,9 +760,7 @@
   {
     "number": "23",
     "name": "Killamari",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -984,10 +789,7 @@
   {
     "number": "23B",
     "name": "Killamari Primo",
-    "elements": [
-      "Neutral",
-      "Water"
-    ],
+    "elements": ["Neutral", "Water"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -1006,12 +808,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1020,9 +817,7 @@
   {
     "number": "24",
     "name": "Mau",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Farming",
@@ -1047,9 +842,7 @@
   {
     "number": "24B",
     "name": "Mau Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -1064,12 +857,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1078,9 +866,7 @@
   {
     "number": "25",
     "name": "Celaray",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -1095,21 +881,11 @@
     "mountType": "water",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "King of the Waves"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
         "alternative": "Ace Swimmer"
       }
     }
@@ -1117,10 +893,7 @@
   {
     "number": "25B",
     "name": "Celaray Lux",
-    "elements": [
-      "Water",
-      "Electric"
-    ],
+    "elements": ["Water", "Electric"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -1139,21 +912,11 @@
     "mountType": "water",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "King of the Waves"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
         "alternative": "Ace Swimmer"
       }
     }
@@ -1161,9 +924,7 @@
   {
     "number": "26",
     "name": "Direhowl",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -1174,21 +935,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -1196,9 +947,7 @@
   {
     "number": "27",
     "name": "Tocotoco",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -1209,12 +958,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1223,9 +967,7 @@
   {
     "number": "28",
     "name": "Flopie",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1252,12 +994,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1266,9 +1003,7 @@
   {
     "number": "29",
     "name": "Mozzarina",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Farming",
@@ -1279,12 +1014,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1293,9 +1023,7 @@
   {
     "number": "30",
     "name": "Bristla",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1322,12 +1050,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1336,9 +1059,7 @@
   {
     "number": "31",
     "name": "Gobfin",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1357,12 +1078,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1371,9 +1087,7 @@
   {
     "number": "31B",
     "name": "Gobfin Ignis",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -1392,12 +1106,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1406,9 +1115,7 @@
   {
     "number": "32",
     "name": "Hangyu",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1427,12 +1134,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1441,9 +1143,7 @@
   {
     "number": "32B",
     "name": "Hangyu Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1466,12 +1166,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1480,9 +1175,7 @@
   {
     "number": "33",
     "name": "Mossanda",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1505,12 +1198,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1519,9 +1207,7 @@
   {
     "number": "33B",
     "name": "Mossanda Lux",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1544,12 +1230,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1558,9 +1239,7 @@
   {
     "number": "34",
     "name": "Woolipop",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Farming",
@@ -1571,12 +1250,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1585,9 +1259,7 @@
   {
     "number": "35",
     "name": "Caprity",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1602,12 +1274,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1616,9 +1283,7 @@
   {
     "number": "35B",
     "name": "Caprity Noct",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1647,9 +1312,7 @@
   {
     "number": "36",
     "name": "Melpaca",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Farming",
@@ -1660,12 +1323,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1674,9 +1332,7 @@
   {
     "number": "37",
     "name": "Eikthyrdeer",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -1687,12 +1343,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1701,9 +1352,7 @@
   {
     "number": "37B",
     "name": "Eikthyrdeer Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -1714,12 +1363,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1728,9 +1372,7 @@
   {
     "number": "38",
     "name": "Nitewing",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -1741,12 +1383,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1755,9 +1392,7 @@
   {
     "number": "39",
     "name": "Ribbuny",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1776,12 +1411,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1790,9 +1420,7 @@
   {
     "number": "39B",
     "name": "Ribbuny Botan",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1815,12 +1443,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1829,10 +1452,7 @@
   {
     "number": "40",
     "name": "Incineram",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -1855,12 +1475,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1869,9 +1484,7 @@
   {
     "number": "40B",
     "name": "Incineram Noct",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -1904,9 +1517,7 @@
   {
     "number": "41",
     "name": "Cinnamoth",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -1921,12 +1532,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1935,9 +1541,7 @@
   {
     "number": "42",
     "name": "Arsox",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -1952,12 +1556,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -1966,9 +1565,7 @@
   {
     "number": "43",
     "name": "Dumud",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -1991,21 +1588,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -2013,10 +1600,7 @@
   {
     "number": "43B",
     "name": "Dumud Gild",
-    "elements": [
-      "Water",
-      "Ground"
-    ],
+    "elements": ["Water", "Ground"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -2039,21 +1623,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -2061,9 +1635,7 @@
   {
     "number": "44",
     "name": "Cawgnito",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -2083,12 +1655,7 @@
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -2096,9 +1663,7 @@
   {
     "number": "45",
     "name": "Leezpunk",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2131,9 +1696,7 @@
   {
     "number": "45B",
     "name": "Leezpunk Ignis",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2156,12 +1719,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2170,9 +1728,7 @@
   {
     "number": "46",
     "name": "Loupmoon",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2197,9 +1753,7 @@
   {
     "number": "46B",
     "name": "Loupmoon Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2214,12 +1768,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2228,9 +1777,7 @@
   {
     "number": "47",
     "name": "Galeclaw",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -2241,12 +1788,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2255,9 +1797,7 @@
   {
     "number": "48",
     "name": "Robinquill",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -2288,12 +1828,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2302,10 +1837,7 @@
   {
     "number": "48B",
     "name": "Robinquill Terra",
-    "elements": [
-      "Grass",
-      "Ground"
-    ],
+    "elements": ["Grass", "Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2332,12 +1864,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2346,9 +1873,7 @@
   {
     "number": "49",
     "name": "Gorirat",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2367,12 +1892,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2381,9 +1901,7 @@
   {
     "number": "49B",
     "name": "Gorirat Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2402,12 +1920,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2416,9 +1929,7 @@
   {
     "number": "50",
     "name": "Beegarde",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -2453,12 +1964,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2467,9 +1973,7 @@
   {
     "number": "51",
     "name": "Elizabee",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -2496,12 +2000,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2510,9 +2009,7 @@
   {
     "number": "52",
     "name": "Grintale",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -2523,12 +2020,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2537,9 +2029,7 @@
   {
     "number": "53",
     "name": "Swee",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -2554,12 +2044,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2568,9 +2053,7 @@
   {
     "number": "54",
     "name": "Sweepa",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -2585,12 +2068,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2599,10 +2077,7 @@
   {
     "number": "55",
     "name": "Chillet",
-    "elements": [
-      "Ice",
-      "Dragon"
-    ],
+    "elements": ["Ice", "Dragon"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -2617,12 +2092,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2631,10 +2101,7 @@
   {
     "number": "55B",
     "name": "Chillet Ignis",
-    "elements": [
-      "Fire",
-      "Dragon"
-    ],
+    "elements": ["Fire", "Dragon"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2649,12 +2116,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2663,9 +2125,7 @@
   {
     "number": "56",
     "name": "Univolt",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -2680,12 +2140,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2694,9 +2149,7 @@
   {
     "number": "57",
     "name": "Foxcicle",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -2707,12 +2160,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2721,9 +2169,7 @@
   {
     "number": "58",
     "name": "Pyrin",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2738,12 +2184,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2752,10 +2193,7 @@
   {
     "number": "58B",
     "name": "Pyrin Noct",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2770,12 +2208,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2784,9 +2217,7 @@
   {
     "number": "59",
     "name": "Reindrix",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -2797,12 +2228,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2811,9 +2237,7 @@
   {
     "number": "60",
     "name": "Rayhound",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Electricity",
@@ -2824,21 +2248,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -2846,9 +2260,7 @@
   {
     "number": "61",
     "name": "Kitsun",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2859,12 +2271,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2873,9 +2280,7 @@
   {
     "number": "61B",
     "name": "Kitsun Noct",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -2900,9 +2305,7 @@
   {
     "number": "62",
     "name": "Dazzi",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2921,12 +2324,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2935,10 +2333,7 @@
   {
     "number": "62B",
     "name": "Dazzi Noct",
-    "elements": [
-      "Electric",
-      "Dark"
-    ],
+    "elements": ["Electric", "Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2961,12 +2356,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -2975,9 +2365,7 @@
   {
     "number": "63",
     "name": "Lunaris",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -2996,12 +2384,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3010,10 +2393,7 @@
   {
     "number": "64",
     "name": "Dinossom",
-    "elements": [
-      "Grass",
-      "Dragon"
-    ],
+    "elements": ["Grass", "Dragon"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -3028,12 +2408,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3042,10 +2417,7 @@
   {
     "number": "64B",
     "name": "Dinossom Lux",
-    "elements": [
-      "Electric",
-      "Dragon"
-    ],
+    "elements": ["Electric", "Dragon"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -3060,12 +2432,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3074,9 +2441,7 @@
   {
     "number": "65",
     "name": "Surfent",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -3087,21 +2452,11 @@
     "mountType": "water",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "King of the Waves"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
         "alternative": "Ace Swimmer"
       }
     }
@@ -3109,9 +2464,7 @@
   {
     "number": "65B",
     "name": "Surfent Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -3122,21 +2475,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -3144,9 +2487,7 @@
   {
     "number": "66",
     "name": "Maraith",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -3175,9 +2516,7 @@
   {
     "number": "67",
     "name": "Digtoise",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Mining",
@@ -3188,12 +2527,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3202,9 +2536,7 @@
   {
     "number": "68",
     "name": "Tombat",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -3237,9 +2569,7 @@
   {
     "number": "69",
     "name": "Lovander",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -3262,12 +2592,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3276,9 +2601,7 @@
   {
     "number": "70",
     "name": "Flambelle",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3301,12 +2624,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3315,10 +2633,7 @@
   {
     "number": "71",
     "name": "Vanwyrm",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3333,12 +2648,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3347,10 +2657,7 @@
   {
     "number": "71B",
     "name": "Vanwyrm Cryst",
-    "elements": [
-      "Ice",
-      "Dark"
-    ],
+    "elements": ["Ice", "Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -3365,12 +2672,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3379,9 +2681,7 @@
   {
     "number": "72",
     "name": "Bushi",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3408,12 +2708,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3422,10 +2717,7 @@
   {
     "number": "72B",
     "name": "Bushi Noct",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3452,12 +2744,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3466,9 +2753,7 @@
   {
     "number": "73",
     "name": "Beakon",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -3487,12 +2772,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3501,9 +2781,7 @@
   {
     "number": "74",
     "name": "Ragnahawk",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3518,21 +2796,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -3540,9 +2808,7 @@
   {
     "number": "75",
     "name": "Katress",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -3575,10 +2841,7 @@
   {
     "number": "75B",
     "name": "Katress Ignis",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3601,12 +2864,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3615,9 +2873,7 @@
   {
     "number": "76",
     "name": "Wixen",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3636,12 +2892,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3650,10 +2901,7 @@
   {
     "number": "76B",
     "name": "Wixen Noct",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3672,12 +2920,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3686,9 +2929,7 @@
   {
     "number": "77",
     "name": "Verdash",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -3715,12 +2956,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3729,9 +2965,7 @@
   {
     "number": "78",
     "name": "Vaelet",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -3758,12 +2992,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3772,9 +3001,7 @@
   {
     "number": "79",
     "name": "Sibelyx",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Medicine",
@@ -3793,12 +3020,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3807,9 +3029,7 @@
   {
     "number": "80",
     "name": "Elphidran",
-    "elements": [
-      "Dragon"
-    ],
+    "elements": ["Dragon"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -3820,12 +3040,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Divine Dragon"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Divine Dragon"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3834,10 +3049,7 @@
   {
     "number": "80B",
     "name": "Elphidran Aqua",
-    "elements": [
-      "Water",
-      "Dragon"
-    ],
+    "elements": ["Water", "Dragon"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -3852,12 +3064,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3866,9 +3073,7 @@
   {
     "number": "81",
     "name": "Kelpsea",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -3883,12 +3088,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3897,9 +3097,7 @@
   {
     "number": "81B",
     "name": "Kelpsea Ignis",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -3914,12 +3112,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3928,10 +3121,7 @@
   {
     "number": "82",
     "name": "Azurobe",
-    "elements": [
-      "Water",
-      "Dragon"
-    ],
+    "elements": ["Water", "Dragon"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -3942,12 +3132,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3956,10 +3141,7 @@
   {
     "number": "82B",
     "name": "Azurobe Cryst",
-    "elements": [
-      "Ice",
-      "Dragon"
-    ],
+    "elements": ["Ice", "Dragon"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -3970,12 +3152,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -3984,9 +3161,7 @@
   {
     "number": "83",
     "name": "Cryolinx",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -4009,12 +3184,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4023,9 +3193,7 @@
   {
     "number": "83B",
     "name": "Cryolinx Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -4048,12 +3216,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4062,9 +3225,7 @@
   {
     "number": "84",
     "name": "Blazehowl",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -4079,12 +3240,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4093,10 +3249,7 @@
   {
     "number": "84B",
     "name": "Blazehowl Noct",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -4111,12 +3264,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4125,10 +3273,7 @@
   {
     "number": "85",
     "name": "Relaxaurus",
-    "elements": [
-      "Water",
-      "Dragon"
-    ],
+    "elements": ["Water", "Dragon"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -4143,21 +3288,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4165,10 +3300,7 @@
   {
     "number": "85B",
     "name": "Relaxaurus Lux",
-    "elements": [
-      "Electric",
-      "Dragon"
-    ],
+    "elements": ["Electric", "Dragon"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -4183,21 +3315,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4205,9 +3327,7 @@
   {
     "number": "86",
     "name": "Broncherry",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4218,12 +3338,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4232,10 +3347,7 @@
   {
     "number": "86B",
     "name": "Broncherry Aqua",
-    "elements": [
-      "Water",
-      "Grass"
-    ],
+    "elements": ["Water", "Grass"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -4246,12 +3358,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lunker"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lunker"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4260,9 +3367,7 @@
   {
     "number": "87",
     "name": "Petallia",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4289,12 +3394,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4303,10 +3403,7 @@
   {
     "number": "88",
     "name": "Reptyro",
-    "elements": [
-      "Fire",
-      "Ground"
-    ],
+    "elements": ["Fire", "Ground"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -4321,12 +3418,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4335,10 +3427,7 @@
   {
     "number": "88B",
     "name": "Reptyro Cryst",
-    "elements": [
-      "Ice",
-      "Ground"
-    ],
+    "elements": ["Ice", "Ground"],
     "workSuitability": [
       {
         "type": "Mining",
@@ -4353,12 +3442,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4367,9 +3451,7 @@
   {
     "number": "89",
     "name": "Kingpaca",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -4380,12 +3462,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4394,9 +3471,7 @@
   {
     "number": "89B",
     "name": "Kingpaca Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -4411,12 +3486,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4425,9 +3495,7 @@
   {
     "number": "90",
     "name": "Mammorest",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4446,21 +3514,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4468,9 +3526,7 @@
   {
     "number": "90B",
     "name": "Mammorest Cryst",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -4489,21 +3545,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4511,9 +3557,7 @@
   {
     "number": "91",
     "name": "Wumpo",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -4536,21 +3580,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Ice Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Ice Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4558,9 +3592,7 @@
   {
     "number": "91B",
     "name": "Wumpo Botan",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4583,21 +3615,11 @@
     "mountType": "ground",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Nimble"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Nimble"],
         "alternative": "Eternal Engine"
       }
     }
@@ -4605,10 +3627,7 @@
   {
     "number": "92",
     "name": "Warsect",
-    "elements": [
-      "Grass",
-      "Ground"
-    ],
+    "elements": ["Grass", "Ground"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4631,12 +3650,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4645,9 +3659,7 @@
   {
     "number": "92B",
     "name": "Warsect Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -4666,12 +3678,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4680,9 +3687,7 @@
   {
     "number": "93",
     "name": "Fenglope",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -4693,21 +3698,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Celestial Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Celestial Emperor"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -4715,9 +3710,7 @@
   {
     "number": "93B",
     "name": "Fenglope Lux",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -4732,21 +3725,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -4754,9 +3737,7 @@
   {
     "number": "94",
     "name": "Felbat",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Medicine",
@@ -4781,9 +3762,7 @@
   {
     "number": "95",
     "name": "Quivern",
-    "elements": [
-      "Dragon"
-    ],
+    "elements": ["Dragon"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -4806,12 +3785,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Divine Dragon"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Divine Dragon"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4820,10 +3794,7 @@
   {
     "number": "95B",
     "name": "Quivern Botan",
-    "elements": [
-      "Grass",
-      "Dragon"
-    ],
+    "elements": ["Grass", "Dragon"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -4850,12 +3821,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Spirit Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Spirit Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4864,9 +3830,7 @@
   {
     "number": "96",
     "name": "Blazamut",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -4881,12 +3845,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4895,10 +3854,7 @@
   {
     "number": "96B",
     "name": "Blazamut Ryu",
-    "elements": [
-      "Fire",
-      "Dragon"
-    ],
+    "elements": ["Fire", "Dragon"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -4913,12 +3869,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Flame Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Flame Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4927,9 +3878,7 @@
   {
     "number": "97",
     "name": "Helzephyr",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -4954,10 +3903,7 @@
   {
     "number": "97B",
     "name": "Helzephyr Lux",
-    "elements": [
-      "Electric",
-      "Dark"
-    ],
+    "elements": ["Electric", "Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -4972,12 +3918,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Lord of Lightning"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Lord of Lightning"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -4986,10 +3927,7 @@
   {
     "number": "98",
     "name": "Astegon",
-    "elements": [
-      "Dark",
-      "Dragon"
-    ],
+    "elements": ["Dark", "Dragon"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5018,10 +3956,7 @@
   {
     "number": "99",
     "name": "Menasting",
-    "elements": [
-      "Dark",
-      "Ground"
-    ],
+    "elements": ["Dark", "Ground"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -5050,9 +3985,7 @@
   {
     "number": "99B",
     "name": "Menasting Terra",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -5067,12 +4000,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Demon God",
-          "Serenity",
-          "Musclehead",
-          "Earth Emperor"
-        ],
+        "best4": ["Demon God", "Serenity", "Musclehead", "Earth Emperor"],
         "alternative": "Ferocious"
       },
       "mount": null
@@ -5081,9 +4009,7 @@
   {
     "number": "100",
     "name": "Anubis",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5102,12 +4028,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Earth Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5116,10 +4037,7 @@
   {
     "number": "101",
     "name": "Jormuntide",
-    "elements": [
-      "Water",
-      "Dragon"
-    ],
+    "elements": ["Water", "Dragon"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -5130,12 +4048,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5144,10 +4057,7 @@
   {
     "number": "101B",
     "name": "Jormuntide Ignis",
-    "elements": [
-      "Fire",
-      "Dragon"
-    ],
+    "elements": ["Fire", "Dragon"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -5158,12 +4068,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5172,9 +4077,7 @@
   {
     "number": "102",
     "name": "Suzaku",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -5185,12 +4088,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5199,9 +4097,7 @@
   {
     "number": "102B",
     "name": "Suzaku Aqua",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -5212,12 +4108,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5226,9 +4117,7 @@
   {
     "number": "103",
     "name": "Grizzbolt",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5251,12 +4140,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of Lightning"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of Lightning"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5265,9 +4149,7 @@
   {
     "number": "104",
     "name": "Lyleen",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -5290,12 +4172,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5304,9 +4181,7 @@
   {
     "number": "104B",
     "name": "Lyleen Noct",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5325,12 +4200,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5339,9 +4209,7 @@
   {
     "number": "105",
     "name": "Faleris",
-    "elements": [
-      "Fire"
-    ],
+    "elements": ["Fire"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -5356,12 +4224,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5370,9 +4233,7 @@
   {
     "number": "105B",
     "name": "Faleris Aqua",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -5387,12 +4248,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5401,10 +4257,7 @@
   {
     "number": "106",
     "name": "Orserk",
-    "elements": [
-      "Electric",
-      "Dragon"
-    ],
+    "elements": ["Electric", "Dragon"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5423,12 +4276,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of Lightning"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of Lightning"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5437,9 +4285,7 @@
   {
     "number": "107",
     "name": "Shadowbeak",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -5450,21 +4296,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -5472,9 +4308,7 @@
   {
     "number": "108",
     "name": "Paladius",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -5489,12 +4323,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5503,9 +4332,7 @@
   {
     "number": "109",
     "name": "Necromus",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -5520,12 +4347,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5534,9 +4356,7 @@
   {
     "number": "110",
     "name": "Frostallion",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Cooling",
@@ -5547,21 +4367,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Ice Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Ice Emperor"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -5569,9 +4379,7 @@
   {
     "number": "110B",
     "name": "Frostallion Noct",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -5582,21 +4390,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -5604,9 +4402,7 @@
   {
     "number": "111",
     "name": "Jetragon",
-    "elements": [
-      "Dragon"
-    ],
+    "elements": ["Dragon"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -5617,21 +4413,11 @@
     "mountType": "flying",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Divine Dragon"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Divine Dragon"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "Eternal Engine"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "Eternal Engine"],
         "alternative": "Nimble"
       }
     }
@@ -5639,9 +4425,7 @@
   {
     "number": "112",
     "name": "Bellanoir",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5660,12 +4444,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5674,9 +4453,7 @@
   {
     "number": "112B",
     "name": "Bellanoir Libero",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5695,12 +4472,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5709,10 +4481,7 @@
   {
     "number": "113",
     "name": "Selyne",
-    "elements": [
-      "Neutral",
-      "Dark"
-    ],
+    "elements": ["Neutral", "Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5731,12 +4500,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5745,9 +4509,7 @@
   {
     "number": "114",
     "name": "Croajiro",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5770,12 +4532,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5784,10 +4541,7 @@
   {
     "number": "114B",
     "name": "Croajiro Noct",
-    "elements": [
-      "Water",
-      "Dark"
-    ],
+    "elements": ["Water", "Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -5810,12 +4564,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5824,9 +4573,7 @@
   {
     "number": "115",
     "name": "Lullu",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -5849,12 +4596,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5863,9 +4605,7 @@
   {
     "number": "116",
     "name": "Shroomer",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -5888,12 +4628,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5902,10 +4637,7 @@
   {
     "number": "116B",
     "name": "Shroomer Noct",
-    "elements": [
-      "Grass",
-      "Dark"
-    ],
+    "elements": ["Grass", "Dark"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -5928,12 +4660,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5942,9 +4669,7 @@
   {
     "number": "117",
     "name": "Kikit",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Mining",
@@ -5955,12 +4680,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Earth Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -5969,10 +4689,7 @@
   {
     "number": "118",
     "name": "Sootseer",
-    "elements": [
-      "Fire",
-      "Dark"
-    ],
+    "elements": ["Fire", "Dark"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -5999,12 +4716,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6013,10 +4725,7 @@
   {
     "number": "119",
     "name": "Prixter",
-    "elements": [
-      "Dark",
-      "Ground"
-    ],
+    "elements": ["Dark", "Ground"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -6035,12 +4744,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6049,9 +4753,7 @@
   {
     "number": "120",
     "name": "Knocklem",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -6070,12 +4772,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Earth Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6084,9 +4781,7 @@
   {
     "number": "121",
     "name": "Yakumo",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6097,12 +4792,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6111,9 +4801,7 @@
   {
     "number": "122",
     "name": "Dogen",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6140,12 +4828,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6154,9 +4837,7 @@
   {
     "number": "123",
     "name": "Dazemu",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6167,12 +4848,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Earth Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6181,9 +4857,7 @@
   {
     "number": "124",
     "name": "Mimog",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6194,12 +4868,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6208,9 +4877,7 @@
   {
     "number": "125",
     "name": "Xenovader",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -6225,12 +4892,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6239,9 +4901,7 @@
   {
     "number": "126",
     "name": "Xenogard",
-    "elements": [
-      "Dragon"
-    ],
+    "elements": ["Dragon"],
     "workSuitability": [
       {
         "type": "Mining",
@@ -6252,12 +4912,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Divine Dragon"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Divine Dragon"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6266,10 +4921,7 @@
   {
     "number": "127",
     "name": "Xenolord",
-    "elements": [
-      "Dark",
-      "Dragon"
-    ],
+    "elements": ["Dark", "Dragon"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6280,12 +4932,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6294,9 +4941,7 @@
   {
     "number": "128",
     "name": "Nitemary",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6311,12 +4956,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6325,9 +4965,7 @@
   {
     "number": "129",
     "name": "Starryon",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6338,12 +4976,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6352,9 +4985,7 @@
   {
     "number": "130",
     "name": "Silvegis",
-    "elements": [
-      "Dragon"
-    ],
+    "elements": ["Dragon"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -6365,12 +4996,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Divine Dragon"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Divine Dragon"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6379,9 +5005,7 @@
   {
     "number": "131",
     "name": "Smokie",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6392,12 +5016,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6406,9 +5025,7 @@
   {
     "number": "132",
     "name": "Celesdir",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -6423,12 +5040,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6437,9 +5049,7 @@
   {
     "number": "133",
     "name": "Omascul",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6450,12 +5060,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6464,9 +5069,7 @@
   {
     "number": "134",
     "name": "Splatterina",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6489,12 +5092,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6503,9 +5101,7 @@
   {
     "number": "135",
     "name": "Tarantriss",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6528,12 +5124,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6542,9 +5133,7 @@
   {
     "number": "136",
     "name": "Azurmane",
-    "elements": [
-      "Electric"
-    ],
+    "elements": ["Electric"],
     "workSuitability": [
       {
         "type": "Electricity",
@@ -6559,12 +5148,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of Lightning"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of Lightning"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6573,9 +5157,7 @@
   {
     "number": "137",
     "name": "Bastigor",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -6594,12 +5176,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Ice Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Ice Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6608,10 +5185,7 @@
   {
     "number": "138",
     "name": "Prunelia",
-    "elements": [
-      "Grass",
-      "Dark"
-    ],
+    "elements": ["Grass", "Dark"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -6638,12 +5212,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6652,9 +5221,7 @@
   {
     "number": "139",
     "name": "Nyafia",
-    "elements": [
-      "Dark"
-    ],
+    "elements": ["Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6677,12 +5244,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lord of the Underworld"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lord of the Underworld"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6691,9 +5253,7 @@
   {
     "number": "140",
     "name": "Gildane",
-    "elements": [
-      "Ground"
-    ],
+    "elements": ["Ground"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6704,12 +5264,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Earth Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Earth Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6718,10 +5273,7 @@
   {
     "number": "141",
     "name": "Herbil",
-    "elements": [
-      "Neutral",
-      "Grass"
-    ],
+    "elements": ["Neutral", "Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -6740,12 +5292,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6754,9 +5301,7 @@
   {
     "number": "142",
     "name": "Icelyn",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -6779,12 +5324,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Ice Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Ice Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6793,9 +5333,7 @@
   {
     "number": "143",
     "name": "Frostplume",
-    "elements": [
-      "Ice"
-    ],
+    "elements": ["Ice"],
     "workSuitability": [
       {
         "type": "Gathering",
@@ -6810,12 +5348,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Ice Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Ice Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6824,9 +5357,7 @@
   {
     "number": "144",
     "name": "Palumba",
-    "elements": [
-      "Grass"
-    ],
+    "elements": ["Grass"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -6845,12 +5376,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6859,10 +5385,7 @@
   {
     "number": "145",
     "name": "Braloha",
-    "elements": [
-      "Grass",
-      "Ground"
-    ],
+    "elements": ["Grass", "Ground"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -6881,12 +5404,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Spirit Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Spirit Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6895,10 +5413,7 @@
   {
     "number": "146",
     "name": "Munchill",
-    "elements": [
-      "Water",
-      "Ice"
-    ],
+    "elements": ["Water", "Ice"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -6917,12 +5432,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6931,10 +5441,7 @@
   {
     "number": "147",
     "name": "Polapup",
-    "elements": [
-      "Water",
-      "Ice"
-    ],
+    "elements": ["Water", "Ice"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -6949,12 +5456,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6963,9 +5465,7 @@
   {
     "number": "148",
     "name": "Turtacle",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -6984,12 +5484,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -6998,10 +5493,7 @@
   {
     "number": "148B",
     "name": "Turtacle Terra",
-    "elements": [
-      "Water",
-      "Ground"
-    ],
+    "elements": ["Water", "Ground"],
     "workSuitability": [
       {
         "type": "Planting",
@@ -7020,12 +5512,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7034,10 +5521,7 @@
   {
     "number": "149",
     "name": "Jellroy",
-    "elements": [
-      "Water",
-      "Dark"
-    ],
+    "elements": ["Water", "Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -7060,12 +5544,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7074,9 +5553,7 @@
   {
     "number": "150",
     "name": "Jelliette",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -7095,12 +5572,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7109,10 +5581,7 @@
   {
     "number": "151",
     "name": "Gloopie",
-    "elements": [
-      "Water",
-      "Dark"
-    ],
+    "elements": ["Water", "Dark"],
     "workSuitability": [
       {
         "type": "Handiwork",
@@ -7131,12 +5600,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7145,9 +5609,7 @@
   {
     "number": "152",
     "name": "Finsider",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -7162,12 +5624,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7176,10 +5633,7 @@
   {
     "number": "152B",
     "name": "Finsider Ignis",
-    "elements": [
-      "Fire",
-      "Water"
-    ],
+    "elements": ["Fire", "Water"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -7198,12 +5652,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7212,10 +5661,7 @@
   {
     "number": "153",
     "name": "Ghangler",
-    "elements": [
-      "Water",
-      "Dark"
-    ],
+    "elements": ["Water", "Dark"],
     "workSuitability": [
       {
         "type": "Transporting",
@@ -7230,12 +5676,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7244,10 +5685,7 @@
   {
     "number": "153B",
     "name": "Ghangler Ignis",
-    "elements": [
-      "Fire",
-      "Water"
-    ],
+    "elements": ["Fire", "Water"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -7266,12 +5704,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7280,10 +5713,7 @@
   {
     "number": "154",
     "name": "Whalaska",
-    "elements": [
-      "Water",
-      "Ice"
-    ],
+    "elements": ["Water", "Ice"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -7298,21 +5728,11 @@
     "mountType": "water",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "King of the Waves"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
         "alternative": "Ace Swimmer"
       }
     }
@@ -7320,10 +5740,7 @@
   {
     "number": "154B",
     "name": "Whalaska Ignis",
-    "elements": [
-      "Fire",
-      "Ice"
-    ],
+    "elements": ["Fire", "Ice"],
     "workSuitability": [
       {
         "type": "Kindling",
@@ -7338,12 +5755,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Flame Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Flame Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
@@ -7352,9 +5764,7 @@
   {
     "number": "155",
     "name": "Neptilius",
-    "elements": [
-      "Water"
-    ],
+    "elements": ["Water"],
     "workSuitability": [
       {
         "type": "Watering",
@@ -7365,21 +5775,11 @@
     "mountType": "water",
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Lunker"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Lunker"],
         "alternative": "Musclehead"
       },
       "mount": {
-        "best4": [
-          "Legend",
-          "Swift",
-          "Runner",
-          "King of the Waves"
-        ],
+        "best4": ["Legend", "Swift", "Runner", "King of the Waves"],
         "alternative": "Ace Swimmer"
       }
     }
@@ -7387,9 +5787,7 @@
   {
     "number": "156",
     "name": "Hartalis",
-    "elements": [
-      "Neutral"
-    ],
+    "elements": ["Neutral"],
     "workSuitability": [
       {
         "type": "Lumbering",
@@ -7404,12 +5802,7 @@
     "mountType": null,
     "passives": {
       "damage": {
-        "best4": [
-          "Legend",
-          "Demon God",
-          "Serenity",
-          "Celestial Emperor"
-        ],
+        "best4": ["Legend", "Demon God", "Serenity", "Celestial Emperor"],
         "alternative": "Musclehead"
       },
       "mount": null
