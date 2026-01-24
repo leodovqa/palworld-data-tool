@@ -32,6 +32,35 @@ window.addEventListener("hashchange", () => {
 const initialTab = window.location.hash.substring(1);
 activateTab(initialTab);
 
+// Nested tab switching
+const nestedTabContainers = document.querySelectorAll(".tab-container-nested");
+
+nestedTabContainers.forEach(container => {
+  const nestedTabButtons = container.querySelectorAll(".tab-button-nested");
+  const nestedTabContents = container.parentElement.querySelectorAll(".tab-content-nested");
+
+  container.addEventListener("click", (e) => {
+    const clicked = e.target.closest(".tab-button-nested");
+    if (!clicked) return;
+
+    const tabId = clicked.dataset.tabNested;
+
+    nestedTabButtons.forEach((button) => {
+      button.classList.remove("active");
+    });
+    clicked.classList.add("active");
+
+    nestedTabContents.forEach((content) => {
+      if (content.id === tabId) {
+        content.classList.add("active");
+      } else {
+        content.classList.remove("active");
+      }
+    });
+  });
+});
+
+
 const tableBody = document.querySelector("#palTable tbody");
 const searchBox = document.getElementById("searchBox");
 let pals = [];

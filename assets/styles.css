@@ -35,6 +35,44 @@
   display: block;
 }
 
+/* Nested tab container */
+.tab-container-nested {
+  display: flex;
+  border-bottom: 1px solid #333;
+  margin-bottom: 1rem;
+}
+
+/* Nested tab buttons */
+.tab-button-nested {
+  background-color: transparent;
+  border: none;
+  color: #e0e0e0;
+  padding: 10px 20px;
+  cursor: pointer;
+  font-size: 1rem;
+  border-bottom: 2px solid transparent;
+  transition: all 0.2s ease-in-out;
+}
+
+.tab-button-nested.active {
+  color: #1f6feb;
+  border-bottom: 2px solid #1f6feb;
+}
+
+.tab-button-nested:hover {
+  background-color: #1a1a1a;
+}
+
+/* Nested tab content */
+.tab-content-nested {
+  display: none;
+}
+
+.tab-content-nested.active {
+  display: block;
+}
+
+
 /* styles for the new Ultra Teams page */
 #ultra-teams h1 {
   text-align: center;
